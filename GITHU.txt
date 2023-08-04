@@ -1,0 +1,9 @@
+Software developer
+
+A. 
+
+ A software developer is a person that is reaponsible on creating system. A developer maintain the functionality, accessibility, and security of the system.
+
+B.
+ 
+I'm responsible in maintaining the accessibility of our system to allow our users to access our web app. My task is updating the system based on the suggestions we discussed.
